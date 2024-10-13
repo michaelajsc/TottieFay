@@ -5,10 +5,11 @@ import Header from './components/Header/Header.jsx';
 function App() {
     return (
         <div>
-          <Header />
+          <Header>
           <main>
           <h1>Tottie Fay</h1>
           </main>
+          </Header>
         </div>
       );
     }
