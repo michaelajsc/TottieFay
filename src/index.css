@@ -1,15 +1,17 @@
-@import url("https://fonts.google.com/share?selection.family=Eczar:wght@400..800");
+@import url(https://fonts.googleapis.com/css2?family=Cinzel+Decorarive);
+/* cinzel-decorative-latin-400-normal */
 
 * {
   box-sizing: border-box;
 }
 
+
 html {
-  font-family: "Eczar", sans-serif;
+  font-family: "Cinzel Decorative", sans-serif;
   line-height: 1.5;
 
-  color: #ebe7ef;
-  background: radial-gradient(#280a48, #20043d);
+  color: #f4f1f8;
+  background: linear-gradient(#4a732cb8, #deea9a);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -34,9 +36,9 @@ main {
 
 main h2 {
   text-align: center;
-  font-family: "Eczar", sans-serif;
+  font-family: "cinzel decorative", system-ui;
   margin: 0 0 1.5rem 0;
-  color: #a18aba;
+  color: #2c1522;
 }
 
 #core-concepts ul {
@@ -90,7 +92,7 @@ main h2 {
   border-radius: 6px;
   background-color: transparent;
   color: #a18aba;
-  font-family: "Eczar", sans-serif;
+  font-family: "Cinzel Decorative", sans-serif;
   font-size: 1rem;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
